@@ -5,8 +5,8 @@
 I am a senior university technician from the National Experimental University "Rafael Maria Baralt". PHP, MySQL, Javascript, HTML, and CSS are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.<br><br>
 * **My interest is in developing web **<br><br>
 - 🌱 I am currently strengthening my knowledge  ...<br>
-  - JavaScript
-- 👯 I’m looking forward to collaborate on open source projects.
+  - JavaScript<br>
+- 👯 I’m looking forward to collaborate on open source projects.<br>
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 learn from the world around me, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="albenis1818@gmail.com">albenis1818@gmail.com</a>
