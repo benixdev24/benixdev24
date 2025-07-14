@@ -1,9 +1,12 @@
 <h1 align="center">Hi , I'm Albenis Ruiz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
-***About me***<br>
+
+## About me
+
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 I am a senior university technician from the National Experimental University "Rafael Maria Baralt". PHP, MySQL, Javascript, HTML, and CSS are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.<br><br>
-* **My interest is in developing web **<br><br>
+
+## My interest is in developing web 
+
 - 🌱 I am currently strengthening my knowledge  ...<br>
   - JavaScript<br>
 - 👯 I’m looking forward to collaborate on open source projects.<br>
