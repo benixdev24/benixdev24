@@ -11,10 +11,10 @@ My interest is in developing web
 
   - JavaScript <br><br>
     
-- 👯 I’m looking forward to collaborate on open source projects.<br>
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 learn from the world around me, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="albenis1818@gmail.com">albenis1818@gmail.com</a>
+👯 I’m looking forward to collaborate on open source projects.<br>
+✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+Outside tech, 📖 learn from the world around me, 🎵 listen to music, and 🌴 explore nature outdoors.
+📫 Reach out to me at: <a href="albenis1818@gmail.com">albenis1818@gmail.com</a>
 
 <div>
   
