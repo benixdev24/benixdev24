@@ -3,12 +3,14 @@
 ## About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-I am a senior university technician from the National Experimental University "Rafael Maria Baralt". PHP, MySQL, Javascript, HTML, and CSS are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.<br><br>
+I am a senior university technician from the National Experimental University "Rafael Maria Baralt". PHP, MySQL, Javascript, HTML, and CSS are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.<br>
 
-## My interest is in developing web 
+My interest is in developing web 
 
-- 🌱 I am currently strengthening my knowledge  ...<br>
-  - JavaScript<br>
+### - 🌱 I am currently strengthening my knowledge  ...
+
+  - JavaScript <br><br>
+    
 - 👯 I’m looking forward to collaborate on open source projects.<br>
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 learn from the world around me, 🎵 listen to music, and 🌴 explore nature outdoors.
